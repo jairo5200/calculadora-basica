@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.buttons {
+	 color:#c0c0c0;
+     padding:0;
+     width:423px;
+     margin:auto;
+     overflow: hidden;
+     list-style: none;
+	 display:inline;
+}
+
+.resultado{
+	width: 70px;
+}
+
